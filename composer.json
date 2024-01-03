@@ -1,5 +1,5 @@
 {
-    "name": "symfonycasts/sass-bundle",
+    "name": "laurentsanson/sass-bundle",
     "description": "Delightful Sass Support for Symfony + AssetMapper",
     "license": "MIT",
     "type": "library",
